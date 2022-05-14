@@ -12,31 +12,25 @@ namespace NoteBook
 {
     public partial class MainMenu : Form
     {
-        private MainMenu MM;
+       
         public MainMenu()
         {
             InitializeComponent();
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
-            Download newForm = new Download();
+            DownLoad newForm = new DownLoad();
             newForm.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             
-            Form2 newForm = new Form2(); 
+            New newForm = new New();
             newForm.Show();
-            //this.Close();
-            
+
         }
     }
 }

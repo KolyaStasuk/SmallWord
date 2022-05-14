@@ -8,5 +8,7 @@ C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Deb
 C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.exe
 C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.DownLoad.resources
 C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.MainMenu.resources
-C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.Form2.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.New.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.WorkZone.resources

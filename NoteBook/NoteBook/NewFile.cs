@@ -10,11 +10,31 @@ using System.Windows.Forms;
 
 namespace NoteBook
 {
-    public partial class Form2 : Form
+    public partial class New : Form
     {
-        public Form2()
+        public New()
         {
             InitializeComponent();
+  
+        }
+
+        private void New_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MainMenu newForm = new MainMenu();
+            newForm.Show();
+            Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            WorkZone newForm = new WorkZone();
+            newForm.Show();
+            Close();
         }
     }
 }
