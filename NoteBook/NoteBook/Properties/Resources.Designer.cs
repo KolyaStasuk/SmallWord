@@ -63,49 +63,9 @@ namespace NoteBook.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap concrete_1646788_1920 {
-            get {
-                object obj = ResourceManager.GetObject("concrete-1646788_1920", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap concrete_1646788_19201 {
-            get {
-                object obj = ResourceManager.GetObject("concrete-1646788_19201", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Fon {
             get {
                 object obj = ResourceManager.GetObject("Fon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap istockphoto_170005774_612x612 {
-            get {
-                object obj = ResourceManager.GetObject("istockphoto-170005774-612x612", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap istockphoto_643856256_612x612 {
-            get {
-                object obj = ResourceManager.GetObject("istockphoto-643856256-612x612", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -109,21 +109,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\concrete-1646788_1920.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\concrete-1646788_19201.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\istockphoto-170005774-612x612.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\istockphoto-643856256-612x612.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="фото\istockphoto-643856256-612x612.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="foto\Fon.jpg" />
   </ItemGroup>
   <ItemGroup>
